@@ -1,0 +1,19 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever server.js --trace-warnings",
+    "watch": "forever -w server.js"
+  },
+  "author": "Marko Melle",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.7.0",
+    "forever": "^4.0.3",
+    "koa": "^2.13.1",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^12.0.0"
+  }
+}
