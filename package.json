@@ -10,7 +10,7 @@
   "author": "Marko Melle",
   "license": "ISC",
   "dependencies": {
-    "faker": "^6.7.0",
+    "faker": "5.5.3",
     "forever": "^4.0.3",
     "koa": "^2.13.1",
     "koa-cors": "^0.0.16",
